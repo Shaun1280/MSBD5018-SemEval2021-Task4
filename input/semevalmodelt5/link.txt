@@ -1,0 +1,11 @@
+task1_1_summary_best.bin:
+https://hkustconnect-my.sharepoint.com/:u:/g/personal/jpanau_connect_ust_hk/EdCPxDbpkJVFoVSefcZ-3dgB_bHCXr0QzIZfJZn0dCvfyg?e=08fhwm
+
+task1_cloze_option_best.bin:
+https://hkustconnect-my.sharepoint.com/:u:/g/personal/jpanau_connect_ust_hk/EbFYPNPOXThHjaW2BRlAw48By6RnjGoDdLhHdc4U49QATA?e=HwIaeS
+
+task2_1_summary_best.bin:
+https://hkustconnect-my.sharepoint.com/:u:/g/personal/jpanau_connect_ust_hk/EUnF-W9YZ_pDspQxr3SJq7oBlyTEwp9dg_GEai9pygKgvw?e=Z1Z9f8
+
+task2_cloze_option_best.bin:
+https://hkustconnect-my.sharepoint.com/:u:/g/personal/jpanau_connect_ust_hk/ESUu6hglTH9FlIWIGctGR4MBL_finKyEEyDQLgaU1wHFtQ?e=yblrcb
