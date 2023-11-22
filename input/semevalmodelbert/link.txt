@@ -1,0 +1,9 @@
+checkpoints:
+trained with options at end:
+https://hkustconnect-my.sharepoint.com/:f:/g/personal/jpanav_connect_ust_hk/EgB8dqRvNPVGjOpLIJvTaBUBH3te3KPZv7BzAgEE_FBx3A?e=J4JE7N
+
+trained with options in between:
+https://hkustconnect-my.sharepoint.com/:f:/g/personal/jpanav_connect_ust_hk/EuRZmgiyRUFIolKvNeyqj-QBqARESjyxMD8FxCs0dqhQDw?e=CsadaK
+
+trained without options:
+https://hkustconnect-my.sharepoint.com/:f:/g/personal/jpanav_connect_ust_hk/Er6559khOKdGsLovp-iWyDwBAemUs8uwTjNZanuxB4haVw?e=oMe7gr
