@@ -1,13 +1,9 @@
 checkpoints:
 trained with options at end:
-https://hkustconnect-my.sharepoint.com/:f:/g/personal/jpanav_connect_ust_hk/EgB8dqRvNPVGjOpLIJvTaBUBkn3iE5yJN5FO9zawYyO_zA?e=TBAVai
+https://hkustconnect-my.sharepoint.com/:f:/g/personal/jpanav_connect_ust_hk/EgB8dqRvNPVGjOpLIJvTaBUBkn3iE5yJN5FO9zawYyO_zA?e=Bkm4bt
 
 trained with options in between:
-https://hkustconnect-my.sharepoint.com/:f:/g/personal/jpanav_connect_ust_hk/EuRZmgiyRUFIolKvNeyqj-QBfPyqo5Axpq-GrhU7-RCVsg?e=pu4P4w
+https://hkustconnect-my.sharepoint.com/:f:/g/personal/jpanav_connect_ust_hk/EuRZmgiyRUFIolKvNeyqj-QBfPyqo5Axpq-GrhU7-RCVsg?e=hvyAjC
 
 trained without options:
-<<<<<<< HEAD
-https://hkustconnect-my.sharepoint.com/:f:/g/personal/jpanav_connect_ust_hk/Er6559khOKdGsLovp-iWyDwBVa4q5mjC5FBTrECEeh0LTw?e=FrhP4R
-=======
-https://hkustconnect-my.sharepoint.com/:f:/g/personal/jpanav_connect_ust_hk/Er6559khOKdGsLovp-iWyDwBAemUs8uwTjNZanuxB4haVw?e=oMe7gr
->>>>>>> 520e07a0e15930ec3dc24aca384eea314eeda833
+https://hkustconnect-my.sharepoint.com/:f:/g/personal/jpanav_connect_ust_hk/Er6559khOKdGsLovp-iWyDwBVa4q5mjC5FBTrECEeh0LTw?e=VTOfBI
