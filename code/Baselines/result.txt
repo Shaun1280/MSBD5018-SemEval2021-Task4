@@ -1,0 +1,11 @@
+Train: Task 1/Test: Task 1:
+Loss: 1.696419533342123 | Acc: 0.294 | Macro avg F1: 0.294364269561627 | Weighted avg F1: 0.29434611669087285
+
+Train: Task 2/Test: Task 2:
+Loss: 1.9099033251404762 | Acc: 0.17 | Macro avg F1: 0.16836902308705712 | Weighted avg F1: 0.1678358238614818
+
+Train: Task 1/Test: Task 2:
+Loss: 1.6892142668366432 | Acc: 0.202 | Macro avg F1: 0.2009561538389585 | Weighted avg F1: 0.20024046816859095
+
+Train: Task 2/Test: Task 1:
+Loss: 1.7868792712688446 | Acc: 0.202 | Macro avg F1: 0.20175592380228852 | Weighted avg F1: 0.20180589796974832
